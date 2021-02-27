@@ -1,0 +1,14 @@
+ec\edu\ups\app\dao\FacturaDAO.class
+ec\edu\ups\app\servicios\Parametros.class
+ec\edu\ups\app\dao\CabeceraDetalleDAO.class
+ec\edu\ups\app\on\GestionON.class
+ec\edu\ups\app\servicios\Detalles.class
+ec\edu\ups\app\vista\FacturaBean.class
+ec\edu\ups\app\modelo\Factura.class
+ec\edu\ups\app\modelo\CabeceraDetalle.class
+ec\edu\ups\app\servicios\Respuesta.class
+ec\edu\ups\app\servicios\ServicioREST.class
+ec\edu\ups\app\dao\ProductoDAO.class
+ec\edu\ups\app\servicios\JAXActivator.class
+ec\edu\ups\app\modelo\Producto.class
+ec\edu\ups\app\vista\Principal.class
